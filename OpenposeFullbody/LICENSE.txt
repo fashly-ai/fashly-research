@@ -1,0 +1,5 @@
+LICENSE
+
+1. LoRATrain.json
+This workflow is retrieved from the tutorial of the following provider https://www.youtube.com/watch?v=CDtiYII_jJE, Produced by: Adwhyta
+
